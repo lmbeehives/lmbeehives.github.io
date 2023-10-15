@@ -1,17 +1,12 @@
 ---
-title: "WELCOME TO L & M BEEHIVES"
+title: ""
 output: 
   html_document:
     toc: false
     toc_float: true
 ---
-
-blah blah blah
-
-<br>
-
 <div align = "center">
-![](beehive.jpg){width=50%}
+![](images/logo.png){width=150%}
 
 <div align = "left">
 

@@ -2,6 +2,9 @@ name: "Yay internet!"
 output_dir: "."
 navbar:
   title: "Home"
+  # left: 
+  #   - text: "Home"
+  #     href: index.html
   right:
     - text: "Products"
       href: products.html
@@ -15,4 +18,7 @@ navbar:
 #      href: https://www.linkedin.com/in/david-nemirovsky/
 output:
   html_document:
-    theme: readable
+#      theme: superhero
+      css:
+      - bootstrap.min.css  # Link to the Bootstrap CSS file
+      - custom.css  # Link to your custom CSS file

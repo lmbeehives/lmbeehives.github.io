@@ -1,0 +1,22 @@
+/* Override the primary color to your custom color 
+:root {
+  --bs-primary: #FFA500; /* Use the HEX color code for the "warning" color 
+}
+*/
+/* Change the background color of the entire website */
+body {
+  background-color: rgba(144, 195, 144, 0.5); /* Replace with your desired background color */
+}
+/* Change the background color of the navbar to light green */
+.navbar {
+  background-color: rgba(25, 60, 17, 0.9); /* Use your desired color's HEX code */
+}
+
+.navbar-brand {
+  background-color: rgba(25, 60, 17, 0.8) !important;
+  color: #fff !important; /* Use your desired color's HEX code */
+}
+
+.nav.navbar-nav.navbar-right a {
+  color: #fff !important; /* Use your desired color's HEX code */
+}
