@@ -1,8 +1,17 @@
 ---
-title: "Products"
+title: "Our Products"
 output: 
   html_document:
     toc: false
     toc_float: true
 ---
-Here's what we have:
+
+### **Beehive** (insert additional basic info)
+
+![](images/hive_back_zoom.jpg){width=45%}
+![](images/hive_front_open_bottom.jpg){width=45%}
+
+![](images/hive_side_open_panels_zoom.jpg){width=45%}
+![](images/hive_side_open_zoom2.jpg){width=45%}
+
+The above is **(insert description here)**
