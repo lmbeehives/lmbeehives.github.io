@@ -13,3 +13,5 @@ output:
 <br>
 
 You can take a look at our homemade beehives in the [Products](https://lmbeehives.github.io/products.html) tab.
+
+You can read more about us here in the [About Us](https://lmbeehives.github.io/about.html) tab.
