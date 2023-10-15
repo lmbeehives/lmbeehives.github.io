@@ -15,4 +15,4 @@ navbar:
 #      href: https://www.linkedin.com/in/david-nemirovsky/
 output:
   html_document:
-    theme: readable
+    theme: darkly
