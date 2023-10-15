@@ -5,4 +5,4 @@ output:
     toc: false
     toc_float: true
 ---
-Here's what we got:
+Here's what we have:

@@ -17,4 +17,4 @@ blah blah blah
 
 <br>
 
-You can take a look at our homemade beehives in the [Products](https://david-nemirovsky/landmbeehive.github.io/products.html) tab.
+You can take a look at our homemade beehives in the [Products](https://lmbeehives.github.io/products.html) tab.
