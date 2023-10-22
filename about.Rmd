@@ -5,4 +5,13 @@ output:
     toc: false
     toc_float: true
 ---
+
+<br>
+
 Here's our mission:
+
+*insert something here*
+
+We design, cut and construct these hives in our wood shop at home!   
+
+We wanted these hives to have the features most don’t and to be as beautiful to look at as they are functional 
