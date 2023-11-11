@@ -6,10 +6,21 @@ output:
     toc_float: true
 ---
 
+<style>
+  .nav-pills>li>a {
+     color: #111;
+     }
+  .nav-pills>li>a:hover, .nav-pills>li>a:focus, .nav-pills>li.active>a,     .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
+     background-color: rgba(25, 60, 17, 0.8)
+     }
+</style>
+
 <br>
 <br>
 
-### **LANGSTROTH HORIZONTAL - 21 FRAME BEEHIVE**
+### **LANGSTROTH HORIZONTAL - 21 FRAME BEEHIVE** {.tabset .tabset-pills}
+
+#### **Photos**
 
 ![](images/hive_back_zoom.jpg){width=45%}
 ![](images/hive_front_open_bottom.jpg){width=45%}
@@ -17,7 +28,34 @@ output:
 ![](images/hive_side_open_panels_zoom.jpg){width=45%}
 ![](images/hive_side_open_zoom2.jpg){width=45%}
 
-#### **DETAILS:**
+#### **Photos of Front**
+
+![](images/hive_front.jpg){width=45%}
+![](images/hive_front_open_trays.jpg){width=45%}
+
+![](images/hive_front_open_zoom.jpg){width=45%}
+![](images/hive_front_open_zoom_panels.jpg){width=45%}
+
+#### **Photos of Side**
+
+![](images/hive_side.jpg){width=45%}
+![](images/hive_side_open.jpg){width=45%}
+
+![](images/hive_side_open_panels.jpg){width=45%}
+![](images/hive_side_open_zoom.jpg){width=45%}
+
+#### **Photos of Back**
+
+![](images/hive_back.jpg){width=45%}
+![](images/hive_back_zoom_angle.jpg){width=45%}
+
+#### **Photos of Custom Art**
+
+![](images/beehive.jpg){width=30%}
+![](images/beehive_open.jpg){width=30%}
+![](images/hive_back_painted.jpg){width=30%}
+
+### **DETAILS:**
 
 ***Handmade Beehive!***
 
@@ -56,12 +94,19 @@ The pine wood exterior comes untreated so you can select from any of the below c
 
 + Treat it with linseed oil
 
-#### **DIMENSIONS**
-**Overall:** 34.5" in length X 25" in width X 45.5" in height
-**Just the box:** 32" in length X 21.25" in width X 15.5" in height
+### **DIMENSIONS**
+
+**Overall:** 34.5" in length x 25" in width x 45.5" in height
+
+**Just the box:** 32" in length x 21.25" in width x 15.5" in height
+
 **Weight:** ~70 pounds
 
-#### **SHIPPING**
+### **PRICE**
+
+**$600**
+
+### **SHIPPING**
 
 + Free delivery within 50 miles range of Stroudsburg, PA 18360
 
@@ -69,4 +114,4 @@ The pine wood exterior comes untreated so you can select from any of the below c
 
 **If you are interested in purchasing this hive and your location is over 50 miles away from Stroudsburg, PA, we will not be able to ship it and you will have to make your own arrangements for shipping. You can contact us with any questions and we will assist in any way possible.**
 
-Our contact info can be found in *this tab*.
+Our contact info can be found in [this tab](https://lmbeehives.github.io/about.html).
