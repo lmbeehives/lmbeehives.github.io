@@ -44,10 +44,13 @@ output:
 ![](images/hive_side_open_panels.jpg){width=45%}
 ![](images/hive_side_open_zoom.jpg){width=45%}
 
-#### **Photos of Back**
+#### **Photos of Back and Trays**
 
 ![](images/hive_back.jpg){width=45%}
 ![](images/hive_back_zoom_angle.jpg){width=45%}
+
+![](images/hive_trays.jpg){width=45%}
+![](images/hive_trays_zoom.jpg){width=45%}
 
 #### **Photos of Custom Art**
 
