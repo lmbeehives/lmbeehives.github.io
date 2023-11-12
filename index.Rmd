@@ -6,7 +6,7 @@ output:
     toc_float: true
 ---
 <div align = "center">
-![](images/logo.png){width=150%}
+![](images/logo.png){width=100%}
 
 <div align = "left">
 
