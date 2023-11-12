@@ -54,9 +54,9 @@ output:
 
 #### **Photos of Custom Art**
 
-![](images/beehive.jpg){width=30%}
-![](images/beehive_open.jpg){width=30%}
-![](images/hive_back_painted.jpg){width=30%}
+![](images/beehive.jpg){width=33%}
+![](images/beehive_open.jpg){width=33%}
+![](images/hive_back_painted.jpg){width=33%}
 
 ### **DETAILS:**
 

@@ -9,7 +9,7 @@ body {
 }
 /* Change the background color of the navbar to light green */
 .navbar {
-  background-color: rgba(25, 60, 17, 0.9); /* Use your desired color's HEX code */
+  background-color: rgba(25, 60, 17, 0.8); /* Use your desired color's HEX code */
 }
 
 .navbar-brand {
